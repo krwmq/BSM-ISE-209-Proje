@@ -1,0 +1,16 @@
+[Unit]
+Description=Python Watchdog Script
+After=network.target
+
+[Service]
+ExecStart=/home/krm/myenv/bin/python /home/krm/bsm/watcher.py
+WorkingDirectory=/home/krm/bsm
+StandardOutput=journal
+StandardError=journal
+Restart=always
+User=krm
+Group=krm
+
+[Install]
+WantedBy=multi-user.target
+
