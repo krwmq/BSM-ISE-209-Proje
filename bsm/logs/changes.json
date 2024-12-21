@@ -1,0 +1,12 @@
+{"event_type": "created", "src_path": "/home/krm/bsm/test/example.txt", "timestamp": "2024-12-21 21:31:30"}
+{"event_type": "opened", "src_path": "/home/krm/bsm/test/example.txt", "timestamp": "2024-12-21 21:31:30"}
+{"event_type": "modified", "src_path": "/home/krm/bsm/test/example.txt", "timestamp": "2024-12-21 21:31:30"}
+{"event_type": "closed", "src_path": "/home/krm/bsm/test/example.txt", "timestamp": "2024-12-21 21:31:30"}
+{"event_type": "created", "src_path": "/home/krm/bsm/test/example2.txt", "timestamp": "2024-12-21 21:36:40"}
+{"event_type": "opened", "src_path": "/home/krm/bsm/test/example2.txt", "timestamp": "2024-12-21 21:36:40"}
+{"event_type": "modified", "src_path": "/home/krm/bsm/test/example2.txt", "timestamp": "2024-12-21 21:36:40"}
+{"event_type": "closed", "src_path": "/home/krm/bsm/test/example2.txt", "timestamp": "2024-12-21 21:36:40"}
+{"event_type": "opened", "src_path": "/home/krm/bsm/test/example.txt", "timestamp": "2024-12-21 22:12:36"}
+{"event_type": "closed_no_write", "src_path": "/home/krm/bsm/test/example.txt", "timestamp": "2024-12-21 22:12:36"}
+{"event_type": "opened", "src_path": "/home/krm/bsm/test/example2.txt", "timestamp": "2024-12-21 22:12:36"}
+{"event_type": "closed_no_write", "src_path": "/home/krm/bsm/test/example2.txt", "timestamp": "2024-12-21 22:12:36"}
